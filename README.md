@@ -3,6 +3,7 @@
 Hospital utilization analysis using healthcare data to assess admissions, length of stay , and departmental efficiency through dashboards and KPIs
 ## Data Sources
 This dashboard outlines the key analytical areas and performance indicators derived from the public hospital utilization dataset. The analysis focuses on understanding patients flow, service demand, hospital performance and heathcare outcome
+https://docs.google.com/spreadsheets/d/1DMgpHt0nkhvhgQ13CDwNQmIZNrLxwYk9/edit?usp=sharing&ouid=114899884736226604712&rtpof=true&sd=true
 ## Tools
 - .Microsoft Excel
   - Used for data cleaning, data analysis, and data visualization
