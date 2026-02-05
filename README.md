@@ -12,6 +12,10 @@ This dashboard outlines the key analytical areas and performance indicators deri
   - [ ] Total patients discharged
   - [ ] Overall mortality rate
   - [ ] Average length of stay
+  - [ ] Discharge rate
+  - [ ] Most utilized department
+  - [ ] Top performing hospital by admission
+  - [ ] State with highest hospital utilization
   ## Data Analysis
   - The hospital utilization project analyzed patients admission, department activity,and hospital efficiency to identify trends, performance gaps,and high-demand areas
   
